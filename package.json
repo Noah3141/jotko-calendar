@@ -1,0 +1,39 @@
+{
+	"name": "jotko-calendar",
+	"version": "0.1.0",
+	"description": "A TypeScript React calendar",
+	"main": "dist/index.ts",
+	"types": "dist/index.d.ts",
+	"directories": {
+		"test": "tests"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Noah3141/jotko-calendar.git"
+	},
+	"keywords": [
+		"calendar",
+		"react",
+		"typescript"
+	],
+	"files": [
+		"src",
+		"dist"
+	],
+	"author": "Noah Steckley <Noah3141@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Noah3141/jotko-calendar/issues"
+	},
+	"homepage": "https://github.com/Noah3141/jotko-calendar#readme",
+	"devDependencies": {
+		"@types/react": "^18.2.78",
+		"@types/react-dom": "^18.2.25",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"typescript": "^5.4.5"
+	}
+}
