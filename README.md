@@ -1,1 +1,1 @@
-# A Handrolled Calendar Implementation for React
+# A TypeScript Calendar Implementation for React
